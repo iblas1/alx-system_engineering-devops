@@ -1,0 +1,13 @@
+total 44
+drwxrwxr-x 2 iblas iblas 4096 Aug  7 15:50 .
+drwxrwxr-x 6 iblas iblas 4096 Aug  7 14:14 ..
+-rwxrw-r-- 1 iblas iblas   32 Aug  7 14:20 0-hello_world
+-rwxrw-r-- 1 iblas iblas   29 Aug  7 14:23 1-confused_smiley
+-rwxrw-r-- 1 iblas iblas   29 Aug  7 14:24 2-hellofile
+-rwxrw-r-- 1 iblas iblas   41 Aug  7 15:36 3-twofiles
+-rwxrw-r-- 1 iblas iblas   29 Aug  7 15:39 4-lastlines
+-rwxrw-r-- 1 iblas iblas   29 Aug  7 15:40 5-firstlines
+-rwxrw-r-- 1 iblas iblas   41 Aug  7 15:45 6-third_line
+-rwxrw-r-- 1 iblas iblas   36 Aug  7 15:49 8-cwd_state
+-rw-rw-r-- 1 iblas iblas    0 Aug  7 15:50 ls_cwd_content
+-rw-rw-r-- 1 iblas iblas   27 Aug  7 14:15 README.md
